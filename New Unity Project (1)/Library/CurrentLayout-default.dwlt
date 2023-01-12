@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 707, y: 392}
   m_MaxSize: {x: 18002, y: 14042}
   vertical: 1
-  controlID: 41
+  controlID: 15
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 707, y: 392}
   m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 16
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,7 +191,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 392}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 43
+  controlID: 17
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -310,9 +310,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.04597, y: -0.06229067, z: -0.9287853}
+    m_Target: {x: -2.04597, y: 1.6799998, z: -0.9287853}
     speed: 2
-    m_Value: {x: -2.04597, y: -0.06229067, z: -0.9287853}
+    m_Value: {x: -2.04597, y: 1.6799998, z: -0.9287853}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -362,9 +362,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.22041838, y: 0.5967072, z: -0.17502134, w: -0.75148106}
   m_Size:
-    m_Target: 42.441895
+    m_Target: 4.041658
     speed: 2
-    m_Value: 42.441895
+    m_Value: 4.041658
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 84f9ffff
-      m_LastClickedID: -1660
-      m_ExpandedIDs: 54faffff60faffff6afaffff70faffff76faffff7cfaffff72fbffff
+      m_SelectedIDs: 56330000
+      m_LastClickedID: 13142
+      m_ExpandedIDs: 72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -604,15 +604,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/ScriptYoza
   m_LastFoldersGridSize: 40
-  m_LastProjectPath: C:\Users\kbc12005100\Documents\Syuukiseisaku\New Unity Project
-    (1)
+  m_LastProjectPath: C:\Users\kbc12005100\Documents\GitHub\Sotugyouseisaku\New Unity
+    Project (1)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 94350000
-    m_LastClickedID: 13716
-    m_ExpandedIDs: 000000007a33000000ca9a3b
+    m_SelectedIDs: 9a330000
+    m_LastClickedID: 13210
+    m_ExpandedIDs: 000000009433000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,7 +640,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a330000
+    m_ExpandedIDs: 0000000094330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
